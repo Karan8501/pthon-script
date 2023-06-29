@@ -1,5 +1,5 @@
 CMake
-dlib
+dlib-19.22.99-cp310-cp310-win_amd64(2).whl
 face_recognition
 numpy
 pandas
