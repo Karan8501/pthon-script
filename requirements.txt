@@ -1,5 +1,5 @@
 CMake
-dlib-19.22.99-cp37-cp37m-win_amd64.whl
+dlib
 face_recognition
 numpy
 pandas
