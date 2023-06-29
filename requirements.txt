@@ -1,5 +1,4 @@
-CMake
-face_recognition
+
 numpy
 pandas
 xlrd
